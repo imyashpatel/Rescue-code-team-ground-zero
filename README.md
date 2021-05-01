@@ -14,8 +14,7 @@ We aim to develop an application that consolidates the necessary operations perf
 ![WhatsApp Image 2021-05-01 at 7 38 20 PM (5)](https://user-images.githubusercontent.com/56687394/116785134-8f9a7900-aab5-11eb-8439-e49efeefc52e.jpeg)
 ![Screenshot_20210501_081247](https://user-images.githubusercontent.com/56687394/116785141-96c18700-aab5-11eb-8ce8-e1378b8ebb6b.jpg)
 ![Screenshot_20210501_081225](https://user-images.githubusercontent.com/56687394/116785142-975a1d80-aab5-11eb-964a-d629f0662778.jpg)
-
-![WhatsApp Image 2021-05-01 at 8 13 58 AM](https://user-images.githubusercontent.com/56687394/116785147-9923e100-aab5-11eb-948c-fa57daca3695.jpeg)
+![Screenshot_20210501_081238](https://user-images.githubusercontent.com/56687394/116785144-975a1d80-aab5-11eb-8be0-e5fdea5fbf80.jpg)
 
 
 
