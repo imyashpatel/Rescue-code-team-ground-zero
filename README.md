@@ -8,7 +8,11 @@ Our application gathers the complete data of the supplied vaccines by consolidat
 Users can also register in their preferred date and time slot for the vaccination drive, so that waiting times and delays are eradicated and crowds forming can be prevented, thereby enabling us to perform in a structured manner. 
 
 an Ambulance feature helps you to contact the nearest ambulance and map to your location for faster reach and immediate medical assistance.
- 
+
+# Resource
+Doc :https://docs.google.com/document/d/17O5K3THR27W2aAzMIcVygkDPJql6tu_B1B9yTAF0fKU/edit?usp=sharing
+presentation :[GroundZero TetraFlip.pdf](https://github.com/yash123456893/Rescue-code-team-ground-zero/files/6410821/GroundZero.TetraFlip.pdf)
+
  # # screenshots:
  ![Screenshot_20210501_081225](https://user-images.githubusercontent.com/56687394/116784923-72b17600-aab4-11eb-8a55-45345862d5df.jpg)
 
